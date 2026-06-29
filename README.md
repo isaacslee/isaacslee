@@ -1,7 +1,9 @@
 <!-- =======Intro Section =======-->
+<!-- 
 <h3 align="center">안녕하세요!👋</h3>
 <p align="center">빅데이터 경영학을 전공한 백엔드 개발자 이승원입니다.
 <br>I'm Isaac, a passionate developer from Korea 🇰🇷.</p>
+-->
 
 <!-- =======Blog & Portfolio Links =======-->
 <h3 align="center">Blog & Portfolio</h3>
@@ -93,7 +95,7 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Seungwon.visitor-badge" width="1" height="1" alt="invisible counter" />
 </p>
 
-<!-- 
+<!--
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Seungwon.visitor-badge" />
 </p>
