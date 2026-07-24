@@ -11,7 +11,7 @@
   <a href="https://isaac-christian.tistory.com" target="_blank">
     <img src="https://img.shields.io/badge/Tistory-Blog-1C1C1C?style=for-the-badge&logo=blogger&logoColor=white" />
   </a>
-  <a href="https://isaac-seungwon.github.io/portfolio" target="_blank">
+  <a href="https://isaacslee.github.io/portfolio" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Site-2C6FDD?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
@@ -87,10 +87,10 @@
 <h3 align="center">GitHub Stats</h3>
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=Isaac-Seungwon&theme=swift&show_icons=true&include_all_commits=true"
+    src="https://github-stats-extended.vercel.app/api?username=isaacslee&theme=swift&show_icons=true&include_all_commits=true&cache_seconds=21600"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Isaac-Seungwon&theme=swift&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ev-station-analysis,gwangjin-parking-analysis,education-center-management-system"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaacslee&theme=swift&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ev-station-analysis,gwangjin-parking-analysis,education-center-management-system&cache_seconds=21600"
   />
 </div>
 
@@ -101,6 +101,6 @@
 
 <!--
 <p align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Isaac-Seungwon.visitor-badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=isaacslee.visitor-badge" />
 </p>
 -->
