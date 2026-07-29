@@ -89,9 +89,11 @@
   <img
     src="https://github-stats-extended.vercel.app/api?username=isaacslee&theme=swift&show_icons=true&include_all_commits=true&cache_seconds=21600"
   />
+  <!--
   <img
     src="https://github-stats-extended.vercel.app/api/top-langs/?username=isaacslee&theme=swift&layout=compact&size_weight=0.5&count_weight=0.5&exclude_repo=ev-station-analysis,gwangjin-parking-analysis,education-center-management-system&cache_seconds=21600"
   />
+  -->
 </div>
 
 <!-- =======Visitor Counter =======-->
